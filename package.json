@@ -1,0 +1,21 @@
+{
+  "name": "express-boiler",
+  "version": "1.0.0",
+  "description": "express and ejs plate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "maimous",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefaleon/express_boilerplate"
+  }
+}
